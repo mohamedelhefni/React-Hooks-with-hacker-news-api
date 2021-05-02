@@ -1,6 +1,6 @@
 # React Hooks With Hacker News Api 
 
-demo: https://optimistic-bhaskara-27cc2a.netlify.app
+demo: https://hackernews2.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
